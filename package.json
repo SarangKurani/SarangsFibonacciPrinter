@@ -1,0 +1,11 @@
+{
+  "name": "sarangsfibonacciprinter",
+  "version": "1.0.0",
+  "description": "Prints the first 'n' numbers of the Fibonacci sequence.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarang Kurani",
+  "license": "ISC"
+}
